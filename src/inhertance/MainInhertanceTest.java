@@ -9,7 +9,7 @@ import java.sql.Date;*/
 
 import other.*;
 
-public class Main {
+public class MainInhertanceTest {
 	int instanceA;
 	int instanceB;
 	static int instanceC;

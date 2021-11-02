@@ -1,7 +1,4 @@
 package main;
-interface Climb {
-	boolean isTooHigh(int height, int limit);
-}
 
 public class Climber {
 
